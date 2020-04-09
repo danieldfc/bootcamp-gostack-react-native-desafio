@@ -8,7 +8,6 @@ import {
   StatusBar,
   StyleSheet,
   TouchableOpacity,
-  Alert,
 } from "react-native";
 
 import api from './services/api';
